@@ -13,6 +13,7 @@ public class Robot {
 
     public void startMoving(Room room) {
         position = new Point(radius, radius);
+
     }
 
     public void move(Point point) {
